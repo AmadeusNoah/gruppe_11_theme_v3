@@ -1,0 +1,1636 @@
+# Translation of Themes - Colibri WP in Danish
+# This file is distributed under the same license as the Themes - Colibri WP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-23 08:24:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - Colibri WP\n"
+
+#. Theme Name of the theme
+msgid "Colibri WP"
+msgstr "Colibri WP"
+
+#: inc/src/Components/Footer.php:58
+msgid "Colibri Theme"
+msgstr "Colibri tema"
+
+#: comments.php:11
+msgid "No Responses"
+msgstr "Ingen svar"
+
+#: comments.php:11
+msgid "One Response"
+msgstr "Et svar"
+
+#: comments.php:12 template-parts/blog/comments.php:14
+msgid "% Responses"
+msgstr "% svar"
+
+#: comments.php:29
+msgid "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Older Comments"
+msgstr "<i class=\"font-icon-post fa fa-angle-double-left\"></i> Ældre kommentarer"
+
+#: comments.php:33
+msgid "Newer Comments <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+msgstr "Nyere kommentarer <i class=\"font-icon-post fa fa-angle-double-right\"></i>"
+
+#: comments.php:42 template-parts/blog/comments.php:37
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: functions.php:31
+msgid "Colibri theme activation failed!"
+msgstr "Colibri temaaktivering mislykkedes!"
+
+#: functions.php:33
+msgid "You need to update your PHP version to use the %s."
+msgstr "Du skal opdatere din PHP-version for at bruge %s."
+
+#: functions.php:36
+msgid "Current php version is: %1$s and the mininum required version is %2$s"
+msgstr "Nuværende php version er %1$s og den version, der kræves som minimum er %2$s"
+
+#: inc/class-tgm-plugin-activation.php:329
+msgid "Install Required Plugins"
+msgstr "Installer de krævede plugins"
+
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Install Plugins"
+msgstr "Installer plugins"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Installing Plugin: %s"
+msgstr "Installerer plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Updating Plugin: %s"
+msgstr "Opdaterer plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr "Noget gik galt med plugin API."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:336
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dette tema kræver følgende plugin: %1$s."
+msgstr[1] "Dette tema kræver følgende plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dette tema anbefaler følgende plugin: %1$s."
+msgstr[1] "Dette tema anbefaler følgende plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:348
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Følgende plugin skal opdateres til seneste version for at sikre fuld forenelighed med temaet: %1$s "
+msgstr[1] "Følgende plugins skal opdateres til seneste version for at sikre fuld forenelighed med temaet: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:354
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Der er en opdatering tilgængelig for følgende plugin: %1$s."
+msgstr[1] "Der er opdateringer tilgængelige for følgende plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Følgende krævede plugin er i øjeblikket inaktivt: %1$s."
+msgstr[1] "Følgende krævede plugins er i øjeblikket inaktive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:366
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Følgende anbefalede plugin er i øjeblikket inaktivt: %1$s."
+msgstr[1] "Følgende anbefalede plugins er i øjeblikket inaktive: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begynd installering af plugin"
+msgstr[1] "Begynd installering af plugins"
+
+#: inc/class-tgm-plugin-activation.php:377
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begynd opdatering af plugin"
+msgstr[1] "Begynd opdatering af plugins"
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begynd aktivering af plugin"
+msgstr[1] "Begynd aktivering af plugins"
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Return to Required Plugins Installer"
+msgstr "Vend tilbage til Påkrævet plugins Installation"
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:843
+#: inc/class-tgm-plugin-activation.php:2629
+#: inc/class-tgm-plugin-activation.php:3728
+msgid "Return to the Dashboard"
+msgstr "Retur til kontrolpanel"
+
+#: inc/class-tgm-plugin-activation.php:389
+#: inc/class-tgm-plugin-activation.php:3275
+msgid "Plugin activated successfully."
+msgstr "Plugin succesfuldt aktiveret."
+
+#: inc/class-tgm-plugin-activation.php:390
+#: inc/class-tgm-plugin-activation.php:3060
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Følgende plugin blev aktiveret uden problemer:"
+msgstr[1] "Følgende plugins blev aktiveret uden problemer:"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:393
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen handlinger foretaget. Plugin %1$s var allerede aktivt."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:396
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin ikke aktiveret. En højere version af %s er krævet for dette tema. Opdater venligst plugin."
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:399
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins blev installeret og aktiveret succesfuldt. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr "Afvis denne meddelelse"
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Der er et eller flere krævede eller anbefalede plugins at installere, opdatere eller aktivere."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontakt venligst administratoren af dette websted for at få hjælp."
+
+#: inc/class-tgm-plugin-activation.php:531
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Dette plugin skal opdateres for at kunne bruges med dit tema."
+
+#: inc/class-tgm-plugin-activation.php:532
+msgid "Update Required"
+msgstr "Opdatering krævet"
+
+#: inc/class-tgm-plugin-activation.php:954
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Den fjerntliggende plugin-pakke indeholder ikke en mappe med det forventede kortlink og omdøbning kunne derfor ikke lade sig gøre."
+
+#: inc/class-tgm-plugin-activation.php:955
+#: inc/class-tgm-plugin-activation.php:961
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Kontakt venligst udbyderen af dette plugin og bed dem pakke deres plugin i henhold til retningslinjerne for WordPress."
+
+#: inc/class-tgm-plugin-activation.php:960
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Den fjentliggende plugin-pakke indeholder mere end én fil, men filerne er ikke pakket i en mappe."
+
+#: inc/class-tgm-plugin-activation.php:1152
+#: inc/class-tgm-plugin-activation.php:3055
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "og"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2054
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2352
+msgid "Required"
+msgstr "Påkrævet"
+
+#: inc/class-tgm-plugin-activation.php:2355
+msgid "Recommended"
+msgstr "Anbefalede"
+
+#: inc/class-tgm-plugin-activation.php:2372
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/class-tgm-plugin-activation.php:2375
+msgid "External Source"
+msgstr "Ekstern kilde"
+
+#: inc/class-tgm-plugin-activation.php:2378
+msgid "Pre-Packaged"
+msgstr "Færdigpakkede"
+
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Not Installed"
+msgstr "Ikke installeret"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Installed But Not Activated"
+msgstr "Installeret men ikke aktiveret"
+
+#: inc/class-tgm-plugin-activation.php:2402 inc/translations.php:300
+msgid "Active"
+msgstr "Aktivt"
+
+#: inc/class-tgm-plugin-activation.php:2408
+msgid "Required Update not Available"
+msgstr "Krævede opdatering er ikke tilgængelig"
+
+#: inc/class-tgm-plugin-activation.php:2411
+msgid "Requires Update"
+msgstr "Kræver opdatering"
+
+#: inc/class-tgm-plugin-activation.php:2414
+msgid "Update recommended"
+msgstr "Anbefalet opdatering"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2423
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2470
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2475
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Skal installeres <span class=\"count\">(%s)</span>"
+msgstr[1] "Skal installeres <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2480
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Opdatering tilgængelig <span class=\"count\">(%s)</span>"
+msgstr[1] "Opdateringer tilgængelige <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Skal aktiveres <span class=\"count\">(%s)</span>"
+msgstr[1] "Skal aktiveres <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ukendt"
+
+#: inc/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr "Installeret version:"
+
+#: inc/class-tgm-plugin-activation.php:2590
+msgid "Minimum required version:"
+msgstr "Version der kræves som minimum:"
+
+#: inc/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr "Tilgængelige versioner:"
+
+#: inc/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr "Ingen plugins at installere, opdatere eller aktivere."
+
+#: inc/class-tgm-plugin-activation.php:2644
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2645
+msgid "Source"
+msgstr "Kilde"
+
+#: inc/class-tgm-plugin-activation.php:2646 inc/translations.php:151
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-tgm-plugin-activation.php:2650
+msgid "Version"
+msgstr "Version"
+
+#: inc/class-tgm-plugin-activation.php:2651
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2701
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2706
+msgid "Update %2$s"
+msgstr "Opdater %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2712
+msgid "Activate %2$s"
+msgstr "Aktiver %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2786
+msgid "Upgrade message from the plugin author:"
+msgstr "Opgraderingsbesked fra plugin-forfatteren."
+
+#: inc/class-tgm-plugin-activation.php:2820 inc/translations.php:297
+msgid "Install"
+msgstr "Installer"
+
+#: inc/class-tgm-plugin-activation.php:2826
+msgid "Update"
+msgstr "Opdatér"
+
+#: inc/class-tgm-plugin-activation.php:2829 inc/translations.php:296
+msgid "Activate"
+msgstr "Aktivér"
+
+#: inc/class-tgm-plugin-activation.php:2860
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ingen plugins blev valgt til installering. Ingen handlinger foretaget."
+
+#: inc/class-tgm-plugin-activation.php:2862
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ingen plugins er valgt til at blive opdateret. Ingen handlinger foretaget."
+
+#: inc/class-tgm-plugin-activation.php:2903
+msgid "No plugins are available to be installed at this time."
+msgstr "Ingen plugins tilgængelige til at installere lige nu."
+
+#: inc/class-tgm-plugin-activation.php:2905
+msgid "No plugins are available to be updated at this time."
+msgstr "Ingen plugins er tilgængelige til at blive opdateret lige nu."
+
+#: inc/class-tgm-plugin-activation.php:3012
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ingen plugins er valgt til at blive aktiveret. Ingen handlinger foretaget"
+
+#: inc/class-tgm-plugin-activation.php:3039
+msgid "No plugins are available to be activated at this time."
+msgstr "Ingen plugins tilgængelige til at blive aktiveret lige nu."
+
+#: inc/class-tgm-plugin-activation.php:3274
+msgid "Plugin activation failed."
+msgstr "Aktivering af plugin mislykkedes."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3629
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Opdaterer plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3633
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Der opstod en fejl under installation %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3636
+msgid "The installation of %1$s failed."
+msgstr "Installationen af %1$s fejlede."
+
+#: inc/class-tgm-plugin-activation.php:3641
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen og aktiveringsprocessen er begyndt. Denne proces kan tage et stykke tid på nogle sider, så vær tålmodig."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3644
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installeret og aktiveret korrekt."
+
+#: inc/class-tgm-plugin-activation.php:3645
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Show Details"
+msgstr "Vis detaljer"
+
+#: inc/class-tgm-plugin-activation.php:3646
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "Hide Details"
+msgstr "Skjul detaljer"
+
+#: inc/class-tgm-plugin-activation.php:3648
+msgid "All installations and activations have been completed."
+msgstr "Alle installationer og aktiveringer er afsluttet."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3651
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer og aktiverer plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3655
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installationen er påbegyndt. Denne proces kan tage et stykke tid på nogle sider, så vær tålmodig."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3658
+msgid "%1$s installed successfully."
+msgstr "%1$s installeret korrekt."
+
+#: inc/class-tgm-plugin-activation.php:3662
+msgid "All installations have been completed."
+msgstr "Alle installationer er afsluttet."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer plugin  %1$s (%2$d/%3$d)"
+
+#: inc/defaults.php:150
+msgid "Action Button %d"
+msgstr "Handlingsknap %d"
+
+#: inc/defaults.php:460 inc/defaults.php:469
+msgid "Modern"
+msgstr "Moderne"
+
+#: inc/defaults.php:479
+msgid "Classic"
+msgstr "Klassisk"
+
+#: inc/defaults.php:488
+msgid "Fullscreen"
+msgstr "Fuldskærm"
+
+#: inc/functions.php:145
+msgid "Header Menu"
+msgstr "Sidehoved menu"
+
+#: inc/functions.php:146
+msgid "Footer Menu"
+msgstr "Sidefodsmenu"
+
+#: inc/functions.php:150
+msgid "Blog sidebar widget area"
+msgstr "Blog sidebar widgetområde"
+
+#: inc/src/Components/Footer.php:62
+msgid "Built using WordPress and the %s"
+msgstr "Bygget ved at bruge WordPress og %s"
+
+#: inc/src/Components/Footer.php:68
+msgid "Y"
+msgstr "Y"
+
+#: inc/src/View.php:184 inc/template-functions.php:273
+#: template-parts/content/content-page.php:10
+#: template-parts/content/content-single.php:26
+msgid "Page"
+msgstr "Side"
+
+#: inc/src/View.php:186 inc/src/View.php:193
+msgid "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
+msgstr "<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>"
+
+#: inc/src/View.php:187 inc/src/View.php:195
+msgid "<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+msgstr "<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>"
+
+#: inc/src/View.php:188 inc/template-functions.php:278
+msgid "Posts navigation"
+msgstr "Navigation til indlæg"
+
+#: inc/template-functions.php:10
+msgid "Page not found"
+msgstr "Side ikke fundet"
+
+#: inc/template-functions.php:12
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "Søgeresultater for &#8220;%s&#8221;"
+
+#: inc/template-functions.php:154
+msgid "No Category"
+msgstr "Ingen kategori"
+
+#: inc/template-functions.php:187
+msgid "No Tag"
+msgstr "Ingen tags"
+
+#: inc/template-functions.php:206
+msgid "Post navigation"
+msgstr "Indlægsnavigation"
+
+#: inc/template-functions.php:421
+msgid "Built using WordPress and %s"
+msgstr "Bygget ved at bruge WordPress og %s"
+
+#: inc/translations.php:6
+msgid "Press return or enter to open this section"
+msgstr "Tryk på return eller enter for at åbne denne sektion"
+
+#: inc/translations.php:7
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+#: template-parts/main/search.php:27 template-parts/main/search.php:53
+msgid "Back"
+msgstr "Tilbage"
+
+#: inc/translations.php:8
+msgid "Help"
+msgstr "Hjælp"
+
+#: inc/translations.php:9
+msgid "Header"
+msgstr "Header"
+
+#: inc/translations.php:10
+msgid "Footer"
+msgstr "Sidefod"
+
+#: inc/translations.php:11 inc/translations.php:18
+msgid "Content"
+msgstr "Indhold"
+
+#: inc/translations.php:12
+msgid "Content Settings"
+msgstr "Indholdsindstillinger"
+
+#: inc/translations.php:13
+msgid "Top Bar Settings"
+msgstr "Top bar indstillinger"
+
+#: inc/translations.php:14
+msgid "Navigation Settings"
+msgstr "Navigation indstillinger"
+
+#: inc/translations.php:15
+msgid "Hero Settings"
+msgstr "Hero indstillinger"
+
+#: inc/translations.php:16
+msgid "Footer Settings"
+msgstr "Footer Indstillinger"
+
+#: inc/translations.php:17
+msgid "Blog Settings"
+msgstr "Blogindstillinger"
+
+#: inc/translations.php:19
+msgid "Style"
+msgstr "Style"
+
+#: inc/translations.php:20
+msgid "Advanced"
+msgstr "Avanceret"
+
+#: inc/translations.php:23
+msgid "Background Type"
+msgstr "Baggrundstype"
+
+#: inc/translations.php:24
+msgid "Background Color"
+msgstr "Baggrund Farve"
+
+#: inc/translations.php:25
+msgid "Background Image"
+msgstr "Baggrundsbillede"
+
+#: inc/translations.php:26
+msgid "Color"
+msgstr "Farve"
+
+#: inc/translations.php:27
+msgid "Image"
+msgstr "Billede"
+
+#: inc/translations.php:28
+msgid "Gradient"
+msgstr "Graduering"
+
+#: inc/translations.php:29
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: inc/translations.php:30
+msgid "Video"
+msgstr "Video"
+
+#: inc/translations.php:33
+msgid "Show bottom divider"
+msgstr "Vis bund opdeler"
+
+#: inc/translations.php:34
+msgid "Divider style"
+msgstr "Opdeler design"
+
+#: inc/translations.php:35
+msgid "Divider height"
+msgstr "Opdeler højde"
+
+#: inc/translations.php:38
+msgid "Tilt"
+msgstr "Vipning"
+
+#: inc/translations.php:39
+msgid "Tilt Flipped"
+msgstr "Vipning vendt"
+
+#: inc/translations.php:40
+msgid "Triangle"
+msgstr "Trekant"
+
+#: inc/translations.php:41
+msgid "Triangle Asymmetrical"
+msgstr "Trekant asymmetrisk"
+
+#: inc/translations.php:42
+msgid "Opacity Fan"
+msgstr "Gennemsigtighed ventilator"
+
+#: inc/translations.php:43
+msgid "Opacity Tilt "
+msgstr "Gennemsigtighed tippe"
+
+#: inc/translations.php:44
+msgid "Mountains"
+msgstr "Bjerge"
+
+#: inc/translations.php:45
+msgid "Pyramids"
+msgstr "Pyramider"
+
+#: inc/translations.php:46
+msgid "Waves"
+msgstr "Bølger"
+
+#: inc/translations.php:47
+msgid "Wave Brush"
+msgstr "Bølger pensel"
+
+#: inc/translations.php:48
+msgid "Waves Pattern"
+msgstr "Bølger mønster"
+
+#: inc/translations.php:49
+msgid "Clouds"
+msgstr "Skyer"
+
+#: inc/translations.php:50
+msgid "Curve"
+msgstr "Kurve"
+
+#: inc/translations.php:51
+msgid "Curve Asymmetrical"
+msgstr "Curve asymmetrisk"
+
+#: inc/translations.php:52
+msgid "Drops"
+msgstr "Dråber"
+
+#: inc/translations.php:53
+msgid "Arrow"
+msgstr "Pil"
+
+#: inc/translations.php:54
+msgid "Book"
+msgstr "Bog"
+
+#: inc/translations.php:55
+msgid "Split"
+msgstr "Opdelt"
+
+#: inc/translations.php:56
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: inc/translations.php:59
+msgid "Select"
+msgstr "Vælg"
+
+#: inc/translations.php:60
+msgid "Select item"
+msgstr "Vælg element"
+
+#: inc/translations.php:61
+msgid "Select image"
+msgstr "Vælg billede"
+
+#: inc/translations.php:62
+msgid "OK"
+msgstr "OK"
+
+#: inc/translations.php:63
+msgid "Clear"
+msgstr "Ryd"
+
+#: inc/translations.php:64
+msgid "None"
+msgstr "Ingen"
+
+#: inc/translations.php:65
+msgid "Add"
+msgstr "Tilføj"
+
+#: inc/translations.php:66
+msgid "Remove"
+msgstr "Fjern"
+
+#: inc/translations.php:67
+msgid "Slide %s"
+msgstr "Slide %s"
+
+#: inc/translations.php:68
+msgid "Add Slide"
+msgstr "Tilføj slide"
+
+#: inc/translations.php:69
+msgid "Position"
+msgstr "Placering"
+
+#: inc/translations.php:72
+msgid "Top Left"
+msgstr "Øverst til venstre"
+
+#: inc/translations.php:73
+msgid "Top Center"
+msgstr "Top midten"
+
+#: inc/translations.php:74
+msgid "Top Right"
+msgstr "Øverst til højre"
+
+#: inc/translations.php:75
+msgid "Center Left"
+msgstr "Venstre midten"
+
+#: inc/translations.php:76
+msgid "Center Center"
+msgstr "Midte i midten"
+
+#: inc/translations.php:77
+msgid "Center Right"
+msgstr "Højre midten"
+
+#: inc/translations.php:78
+msgid "Bottom Left"
+msgstr "Nederst til venstre"
+
+#: inc/translations.php:79
+msgid "Bottom Center"
+msgstr "Bund midten"
+
+#: inc/translations.php:80
+msgid "Bottom Right"
+msgstr "Nederst til højre"
+
+#: inc/translations.php:81
+msgid "Attachment"
+msgstr "Vedhæftning"
+
+#: inc/translations.php:82
+msgid "Scroll"
+msgstr "Rul"
+
+#: inc/translations.php:83
+msgid "Fixed"
+msgstr "Låst"
+
+#: inc/translations.php:84
+msgid "Size"
+msgstr "Størrelse"
+
+#: inc/translations.php:85
+msgid "Do not repeat"
+msgstr "Ingen gentagelse"
+
+#: inc/translations.php:86
+msgid "Repeat %s"
+msgstr "Gentag %s"
+
+#: inc/translations.php:87
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/translations.php:88
+msgid "Cover"
+msgstr "Omslag"
+
+#: inc/translations.php:89
+msgid "Contain"
+msgstr "Indeholder"
+
+#: inc/translations.php:90
+msgid "Slide Duration"
+msgstr "Slide varighed"
+
+#: inc/translations.php:91
+msgid "Effect Speed"
+msgstr "Effekt hastighed"
+
+#: inc/translations.php:92
+msgid "Video type"
+msgstr "Video type"
+
+#: inc/translations.php:93
+msgid "Self Hosted"
+msgstr "Egenhosted"
+
+#: inc/translations.php:94
+msgid "Self Hosted Video"
+msgstr "Egenhosted video"
+
+#: inc/translations.php:95
+msgid "External"
+msgstr "Ekstern"
+
+#: inc/translations.php:96
+msgid "Video Poster"
+msgstr "Videoplakat"
+
+#: inc/translations.php:97
+msgid "Youtube link"
+msgstr "Youtube link"
+
+#: inc/translations.php:98
+msgid "Show Background Overlay"
+msgstr "Vis baggrund overlay"
+
+#: inc/translations.php:99
+msgid "Overlay Type"
+msgstr "Overlay type"
+
+#: inc/translations.php:100
+msgid "Shape Only"
+msgstr "Kun form"
+
+#: inc/translations.php:101
+msgid "Opacity"
+msgstr "Gennemsigtighed"
+
+#: inc/translations.php:102
+msgid "Circles"
+msgstr "Cirkler"
+
+#: inc/translations.php:103
+msgid "10deg Stripes"
+msgstr "10 grader striber"
+
+#: inc/translations.php:104
+msgid "Rounded Square Blue"
+msgstr "Afrundet firkant blå"
+
+#: inc/translations.php:105
+msgid "Many Rounded Squares Blue"
+msgstr "Mange afrundede firkanter blå"
+
+#: inc/translations.php:106
+msgid "Two Circles"
+msgstr "To cirkler"
+
+#: inc/translations.php:107
+msgid "Circles 2"
+msgstr "Cirkler 2"
+
+#: inc/translations.php:108
+msgid "Circles 3"
+msgstr "Cirkler 3"
+
+#: inc/translations.php:109
+msgid "Circles Gradient"
+msgstr "Cirkler graduering"
+
+#: inc/translations.php:110
+msgid "Circles White Gradient"
+msgstr "Cirkler hvid graduering"
+
+#: inc/translations.php:111
+msgid "Waves Inverted"
+msgstr "Bølger negativ"
+
+#: inc/translations.php:112
+msgid "Dots"
+msgstr "Prikker"
+
+#: inc/translations.php:113
+msgid "Left Tilted Lines"
+msgstr "Venstre tippede linjer"
+
+#: inc/translations.php:114
+msgid "Right Tilted Lines"
+msgstr "Højre tippede linjer"
+
+#: inc/translations.php:115
+msgid "Right Tilted Strips"
+msgstr "Højre tippede striber"
+
+#: inc/translations.php:116
+msgid "Shape Light"
+msgstr "Form lys"
+
+#: inc/translations.php:117
+msgid "Overlay Shape"
+msgstr "Overlay form"
+
+#: inc/translations.php:120
+msgid "Hero layout"
+msgstr "Hero layout"
+
+#: inc/translations.php:121
+msgid "Text only"
+msgstr "Kun tekst"
+
+#: inc/translations.php:122
+msgid "Text with media on right"
+msgstr "Tekst med medie til højre"
+
+#: inc/translations.php:123
+msgid "Text with media on left"
+msgstr "Tekst med medie til venstre"
+
+#: inc/translations.php:124
+msgid "Show Title"
+msgstr "Vis titel"
+
+#: inc/translations.php:125
+msgid "Show Subtitle"
+msgstr "Vis undertitel"
+
+#: inc/translations.php:126
+msgid "Title"
+msgstr "Titel"
+
+#: inc/translations.php:127
+msgid "Subtitle"
+msgstr "Undertitel"
+
+#: inc/translations.php:128
+msgid "Text width"
+msgstr "Tekst bredde"
+
+#: inc/translations.php:129
+msgid "Button"
+msgstr "Knap"
+
+#: inc/translations.php:130
+msgid "Add Button"
+msgstr "Tilføj knap"
+
+#: inc/translations.php:131
+msgid "Buttons"
+msgstr "Knapper"
+
+#: inc/translations.php:132
+msgid "Button Type"
+msgstr "Knap type"
+
+#: inc/translations.php:133
+msgid "Primary Button"
+msgstr "Primære knap"
+
+#: inc/translations.php:134
+msgid "Secondary Button"
+msgstr "Sekundær knap"
+
+#: inc/translations.php:135
+msgid "Label"
+msgstr "Etiket"
+
+#: inc/translations.php:136
+msgid "Link"
+msgstr "Link"
+
+#: inc/translations.php:137
+msgid "Icons"
+msgstr "Ikoner"
+
+#: inc/translations.php:138
+msgid "Align"
+msgstr "Juster"
+
+#: inc/translations.php:139
+msgid "Spacing top"
+msgstr "Afstand top"
+
+#: inc/translations.php:140
+msgid "Spacing bottom"
+msgstr "Afstand bund"
+
+#: inc/translations.php:141
+msgid "Full Height"
+msgstr "Fuld højde"
+
+#: inc/translations.php:142
+msgid "Text column width"
+msgstr "Tekstkolonne bredde"
+
+#: inc/translations.php:145
+msgid "Box shadow"
+msgstr "Boksskygge"
+
+#: inc/translations.php:146
+msgid "Horizontal"
+msgstr "Vandret"
+
+#: inc/translations.php:147
+msgid "Vertical"
+msgstr "Lodret"
+
+#: inc/translations.php:148
+msgid "Spread"
+msgstr "Spredning"
+
+#: inc/translations.php:149
+msgid "Blur"
+msgstr "Sløring"
+
+#: inc/translations.php:150
+msgid "Frame options"
+msgstr "Ramme muligheder"
+
+#: inc/translations.php:152
+msgid "Border"
+msgstr "Ramme"
+
+#: inc/translations.php:153
+msgid "Width"
+msgstr "Bredde"
+
+#: inc/translations.php:154
+msgid "Height"
+msgstr "Højde"
+
+#: inc/translations.php:155
+msgid "Offset"
+msgstr "Forskydning"
+
+#: inc/translations.php:156
+msgid "Offset left"
+msgstr "Forskydning venstre"
+
+#: inc/translations.php:157
+msgid "Offset top"
+msgstr "Forskydning top"
+
+#: inc/translations.php:158
+msgid "Frame thickness"
+msgstr "Ramme tykkelse"
+
+#: inc/translations.php:159
+msgid "Show frame over image"
+msgstr "Vis ramme over billede"
+
+#: inc/translations.php:160
+msgid "Show frame shadow"
+msgstr "Vis ramme skygge"
+
+#: inc/translations.php:163
+msgid "Information Fields"
+msgstr "Information felter"
+
+#: inc/translations.php:164
+msgid "Social Icons"
+msgstr "Sociale ikoner"
+
+#: inc/translations.php:165
+msgid "Content Type"
+msgstr "Indholdstype"
+
+#: inc/translations.php:166
+msgid "Field %s"
+msgstr "Felt %s"
+
+#: inc/translations.php:167
+msgid "Add Field"
+msgstr "Tilføj felt"
+
+#: inc/translations.php:168
+msgid "Icon %s"
+msgstr "Ikon %s"
+
+#: inc/translations.php:169
+msgid "Add Item"
+msgstr "Tilføj element"
+
+#: inc/translations.php:170
+msgid "Add Icon"
+msgstr "Tilføj ikon"
+
+#: inc/translations.php:171
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/translations.php:172
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/translations.php:175
+msgid "Stick on scroll"
+msgstr "Fastgør ved rul"
+
+#: inc/translations.php:176
+msgid "Show top bar"
+msgstr "Vis topbjælke"
+
+#: inc/translations.php:177
+msgid "Boxed"
+msgstr "Boks"
+
+#: inc/translations.php:178
+msgid "Container width"
+msgstr "Boks bredde"
+
+#: inc/translations.php:179
+msgid "Full width"
+msgstr "Fuld bredde"
+
+#: inc/translations.php:180
+msgid "Transparent nav"
+msgstr "Gennemsigtig navigationsbjælke"
+
+#: inc/translations.php:181
+msgid "Button align"
+msgstr "Knap justering"
+
+#: inc/translations.php:184
+msgid "Layout type"
+msgstr "Layout type"
+
+#: inc/translations.php:185
+msgid "Alternate logo image"
+msgstr "Vekslende logo billede"
+
+#: inc/translations.php:186
+msgid "Navigation padding"
+msgstr "Navigation indermargen"
+
+#: inc/translations.php:187
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/translations.php:189
+msgid "Logo image only"
+msgstr "Kun logo billede"
+
+#: inc/translations.php:190
+msgid "Site title text only"
+msgstr "Kun websted titeltekst"
+
+#: inc/translations.php:191
+msgid "Image with text below"
+msgstr "Billede med tekst under"
+
+#: inc/translations.php:192
+msgid "Image with text on the right"
+msgstr "Billede med tekst til højre"
+
+#: inc/translations.php:193
+msgid "Image with text above"
+msgstr "Billede med tekst over"
+
+#: inc/translations.php:194
+msgid "Image with text on the left"
+msgstr "Billede med tekst til venstre"
+
+#: inc/translations.php:197
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/translations.php:198
+msgid "- No menu -"
+msgstr "- Ingen menu -"
+
+#: inc/translations.php:199
+msgid "Edit Menu Structure"
+msgstr "Rediger menustruktur"
+
+#: inc/translations.php:200
+msgid "Show offscreen menu on"
+msgstr "Vis offscreen navigation på"
+
+#: inc/translations.php:201
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/translations.php:202
+msgid "Mobile and tablet"
+msgstr "Mobil og tablet"
+
+#: inc/translations.php:203
+msgid "Mobile, tablet and desktop"
+msgstr "Mobil, tablet og pc"
+
+#: inc/translations.php:204
+msgid "Button highlight type"
+msgstr "Knap fremhævningstype"
+
+#: inc/translations.php:205
+msgid "Button hover effect"
+msgstr "Knap hover effekt"
+
+#: inc/translations.php:208
+msgid "Bottom line"
+msgstr "Bundlinje"
+
+#: inc/translations.php:209
+msgid "Top line"
+msgstr "Toplinje"
+
+#: inc/translations.php:210
+msgid "Double line"
+msgstr "Dobbeltlinje"
+
+#: inc/translations.php:211
+msgid "Background"
+msgstr "Baggrund"
+
+#: inc/translations.php:213
+msgid "Drop in"
+msgstr "Drop ind"
+
+#: inc/translations.php:214
+msgid "Drop out"
+msgstr "Drop ud"
+
+#: inc/translations.php:215
+msgid "Grow from left"
+msgstr "Voks fra højre"
+
+#: inc/translations.php:216
+msgid "Grow from right"
+msgstr "Voks fra venstre"
+
+#: inc/translations.php:217
+msgid "Grow from center"
+msgstr "Voks fra midten"
+
+#: inc/translations.php:219
+msgid "Grow up"
+msgstr "Voks opad"
+
+#: inc/translations.php:220
+msgid "Grow down"
+msgstr "Voks nedad"
+
+#: inc/translations.php:221
+msgid "Grow left"
+msgstr "Voks venstre"
+
+#: inc/translations.php:222
+msgid "Grow right"
+msgstr "Voks højre"
+
+#: inc/translations.php:223
+msgid "Shutter in horizontal"
+msgstr "Blænde vandret"
+
+#: inc/translations.php:224
+msgid "Shutter out horizontal"
+msgstr "Blænde ud vandret"
+
+#: inc/translations.php:225
+msgid "Shutter in vertical"
+msgstr "Blænde ud lodret"
+
+#: inc/translations.php:226
+msgid "Shutter out vertical"
+msgstr "Blænde ud lodret"
+
+#: inc/translations.php:229
+msgid "Logo / Nav"
+msgstr "Logo / Navigation"
+
+#: inc/translations.php:230
+msgid "Logo above"
+msgstr "Logo over"
+
+#: inc/translations.php:234
+msgid "Read More"
+msgstr "Læs mere "
+
+#: inc/translations.php:238
+msgid "Use footer parallax"
+msgstr "Brug sidefod parallax"
+
+#: inc/translations.php:242
+msgid "To enable all the theme features, please install %s plugin"
+msgstr "For at få adgang til alle temamuligheder, så installer venligst %s pluginet."
+
+#: inc/translations.php:244
+msgid "Install %s"
+msgstr "Installer %s"
+
+#: inc/translations.php:245
+msgid "Activate %s"
+msgstr "Aktiver %s"
+
+#: inc/translations.php:249
+msgid "Posts per row"
+msgstr "Indlæg pr. række"
+
+#: inc/translations.php:250
+msgid "Show blog sidebar "
+msgstr "Vis blog sidebar"
+
+#: inc/translations.php:251
+msgid "Enable masonry"
+msgstr "Aktiver bokse"
+
+#: inc/translations.php:252
+msgid "Show thumbnail placeholder"
+msgstr "Vis miniature pladsholder"
+
+#: inc/translations.php:253
+msgid "Thumbnail placeholder color"
+msgstr "Miniature pladsholder farve"
+
+#: inc/translations.php:257
+msgid "or"
+msgstr "eller"
+
+#: inc/translations.php:258
+msgid "Get Started"
+msgstr "Kom i gang"
+
+#: inc/translations.php:259
+msgid "Recommended plugins"
+msgstr "Anbefalede plugins"
+
+#: inc/translations.php:260
+msgid "Links to Customizer Settings"
+msgstr "Links til indstillinger for tilpasser"
+
+#: inc/translations.php:261
+msgid "Set your logo"
+msgstr "Vælg logofarve"
+
+#: inc/translations.php:262
+msgid "Change the hero image"
+msgstr "Skift hero billedet"
+
+#: inc/translations.php:263
+msgid "Customize navigation"
+msgstr "Tilpas navigation"
+
+#: inc/translations.php:264
+msgid "Customize frontpage hero"
+msgstr "Tilpas forside hero"
+
+#: inc/translations.php:265
+msgid "Customize footer"
+msgstr "Tilpas sidefod"
+
+#: inc/translations.php:266
+msgid "Change color settings"
+msgstr "Skift farveindstillinger"
+
+#: inc/translations.php:267
+msgid "Customize fonts"
+msgstr "Tilpas skrifttyper"
+
+#: inc/translations.php:268
+msgid "Customize menu"
+msgstr "Tilpas menu"
+
+#: inc/translations.php:269
+msgid "Customize"
+msgstr "Tilpas"
+
+#: inc/translations.php:270
+msgid "Welcome to %s"
+msgstr "Velkommen til %s"
+
+#: inc/translations.php:271
+msgid "Choose one of the Colibri predefined designs"
+msgstr "Vælg en af de færdiglavede Colibri-designs"
+
+#: inc/translations.php:272
+msgid "Start with selected design"
+msgstr "Begynd med et udvalgt design"
+
+#: inc/translations.php:273
+msgid "Check all demo sites page"
+msgstr "Se siden med demo-websteder"
+
+#: inc/translations.php:274
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/translations.php:275
+msgid "Colibri is easy to learn and master, but you can always check out our documentation to check out features you might have missed."
+msgstr "Colibri er let at lære og mestre, men du kan altid tjekke vores dokumentation for at finde muligheder du kan have overset."
+
+#: inc/translations.php:277
+msgid "Check documentation"
+msgstr "Tjek dokumentation"
+
+#: inc/translations.php:278
+msgid "Support"
+msgstr "Support"
+
+#: inc/translations.php:279
+msgid "Our technical team is here to help you build an awesome website. We usually answer support issues in less than 1 business day."
+msgstr "Vores tekniske team er klar til at hjælpe dig med at bygge et fantastisk websted. Vi besvarer sædvanligvis henvendelser på under en almindelig arbejdsdag."
+
+#: inc/translations.php:281
+msgid "Open a support ticket"
+msgstr "Åbn en support ticket"
+
+#: inc/translations.php:282
+msgid "Leave a Review"
+msgstr "Skriv en bedømmelse"
+
+#: inc/translations.php:283
+msgid "We strive to provide our customers with the best service in our industry, so your feedback is very important to us. We would greatly appreciate it if you would take a few minutes to share your experience with us via this survey."
+msgstr "Vi tilstræber at give vores kunder den bedste service i branchen, så din tilbagemelding er meget vigtig for os. Vi vil værdsætte det meget, hvis du vil bruge et par minutter på at dele din oplevelse gennem denne undersøgelse."
+
+#: inc/translations.php:285
+msgid "Leave a review"
+msgstr "Skriv en bedømmelse"
+
+#: inc/translations.php:298
+msgid "Installing %s"
+msgstr "Installerer %s"
+
+#: inc/translations.php:299
+msgid "Activating %s"
+msgstr "Aktiverer %s"
+
+#: inc/translations.php:301
+msgid "Skip to content"
+msgstr "Videre til indhold"
+
+#: inc/translations.php:302
+msgid "Choose header design"
+msgstr "Vælg sidehoved design"
+
+#: inc/translations.php:303
+msgid "Choose footer design"
+msgstr "Vælg sidefod design"
+
+#: inc/translations.php:304
+msgid "Add Predefined Section"
+msgstr "Tilføj færdiglavet design"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Fuld bredde"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Forsideskabelon"
+
+#: template-parts/blog/comments.php:12 template-parts/main/post.php:21
+msgid "No responses yet"
+msgstr "Endnu ingen svar"
+
+#: template-parts/blog/comments.php:13 template-parts/main/post.php:22
+msgid "One response"
+msgstr "Et svar"
+
+#: template-parts/blog/comments.php:26
+msgid "Older Comments"
+msgstr "Ældre kommentarer"
+
+#: template-parts/blog/comments.php:29
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: template-parts/blog/searchform.php:5
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søg efter:"
+
+#: template-parts/blog/searchform.php:8
+msgid "Search &hellip;"
+msgstr "Søg &hellip;"
+
+#: template-parts/blog/searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Søg"
+
+#: template-parts/content/content-none.php:4
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: template-parts/content/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: template-parts/content/content-none.php:10
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet matchede dine søgekriterier. Prøv venligst igen med nogle andre søgeord."
+
+#: template-parts/content/content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi kan vist ikke finde, hvad du leder efter. Måske en søgning vil hjælpe?"
+
+#: template-parts/content/content-page.php:6
+#: template-parts/content/content-single.php:21
+msgid "Pages:"
+msgstr "Sider:"
+
+#: template-parts/content/content-single.php:44
+msgid "Next:"
+msgstr "Næste:"
+
+#: template-parts/content/content-single.php:46
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "Næste indlæg:"
+
+#: template-parts/content/content-single.php:49
+msgid "Previous:"
+msgstr "Forrige"
+
+#: template-parts/content/content-single.php:51
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "Forrige indlæg:"
+
+#: template-parts/main/404.php:17
+msgid "Sorry, page not found!"
+msgstr "Beklager, siden blev ikke fundet!"
+
+#: template-parts/main/404.php:28
+msgid "Go to Homepage!"
+msgstr "Gå til forside!"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+#: template-parts/main/search.php:26 template-parts/main/search.php:52
+msgid "Next"
+msgstr "Næste"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "Forrige"
+
+#: template-parts/main/archive_item_template.php:23
+#: template-parts/main/item_template.php:23
+msgid "by"
+msgstr "af"
+
+#: template-parts/main/item_template.php:31
+msgid "on"
+msgstr "på"
+
+#: template-parts/main/search_item_template.php:82
+msgid "Read more"
+msgstr "Læs mere "
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "Previous post"
+msgstr "Forrige indlæg"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "Next post"
+msgstr "Næste indlæg"
+
+#: template-parts/main/post.php:23
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} Svar"
+
+#: inc/translations.php:292
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "%1$s pluginet tilføjer træk og slip-funktionalitet og mange andre muligheder til %2$s temaet."
+
+#: inc/translations.php:287
+msgid "%1$s plugin is recommended for the %2$s contact section."
+msgstr "%1$s pluginet anbefales %2$s kontaktsektionen."
+
+#: inc/translations.php:305
+msgid "These actions will also install Colibri Page Builder plugin."
+msgstr "Denne handling vil også installere Calibri page builder pluginet."
+
+#: inc/defaults.php:143
+msgid "Click the pencil icon to edit the text"
+msgstr "Klik på blyantikonet for at redigere teksten"
+
+#: inc/defaults.php:146
+msgid "Just click and start typing to change the site headline."
+msgstr "Bare klik og begynd at taste for at ændre webstedets overskrift."
+
+#. Theme URI of the theme
+msgid "https://colibriwp.com/go/colibri-theme/"
+msgstr "https://colibriwp.com/go/colibri-theme/"
+
+#. Author URI of the theme
+msgid "https://colibriwp.com/"
+msgstr "https://colibriwp.com/"
+
+#. Author of the theme
+msgid "Extend Themes"
+msgstr "Extend Themes"

@@ -1,0 +1,153 @@
+# Translation of Themes - Skyline WP in Danish
+# This file is distributed under the same license as the Themes - Skyline WP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-26 10:31:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - Skyline WP\n"
+
+#. Description of the theme
+msgid "Skyline WP is a beautiful, very customizable, multipurpose theme that you can use to create amazing websites through drag and drop. It comes with a pre-designed home page, 5 header designs and over 35 ready-to-use content blocks that you can easily customize. You can also design your own custom blocks by combining more than 25 drag and drop components. Skyline WP offers lots of customization options (video background, slideshow background, header content types, etc) to help you create a website that stands out in no time. It is also designed with responsiveness, to work on mobile devices right out of the box. Skyline WP is the only theme you will ever need! CHECK OUT THE DEMOS: https://colibriwp.com/go/skyline-demos"
+msgstr "Skyline WP er et smukt og virkelig tilpasningsmulig, multifunktionelt tema, som du kan bruge til at skabe et fantastisk websted med træk-og-slip-funktionalitet. Det er født med en foruddesignet forside, fem sidehoved designs og over 35 blokke, der er klar til brug og nemme at tilpasse. Du kan også designe dine egne blokke ved at kombinere over 25 træk-og-slip komponenter. Skyline WP har en masse tilpasningsmuligheder (video baggrund, slideshow baggrund, sidehoved indholdstyper osv.) der vil hjælpe dig til at skabe et websted, der skiller sig ud, på ingen tid. Det er også responsivt, så det fungerer på mobile enheder ud af boksen. Skyline WP er det eneste tema du nogensinde har brug for! TJEK DEMOERNE: https://colibriwp.com/go/skyline-demos"
+
+#. Theme Name of the theme
+msgid "Skyline WP"
+msgstr "Skyline WP"
+
+#: inc/defaults.php:12
+msgid "Don't wait for opportunities. <br/><em style=\"font-weight: 600;\">Create them!</em>"
+msgstr "Vent ikke på mulighederne. <br/><em style=\"font-weight: 600;\">Skab dem!</em>"
+
+#: inc/defaults.php:11 inc/defaults.php:53
+msgid "Start creating your website today!"
+msgstr "Få oprettet dit websted i dag!"
+
+#: functions.php:59
+msgid "%s is easy to learn and master, but you can always check out our documentation to learn about some features you might have missed."
+msgstr "%s er let at lære og mestre, men du kan altid tjekke vores dokumentation for at finde muligheder du kan have overset."
+
+#: functions.php:50
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "%1$s pluginet tilføjer træk og slip-funktionalitet og mange andre muligheder til %2$s temaet."
+
+#: functions.php:48
+msgid "%s Settings"
+msgstr "%s Indstillinger"
+
+#: admin/admin-notice.php:71
+msgid "This action will also install the Colibri Page Builder plugin."
+msgstr "Denne handling vil også installere Calibri page builder pluginet."
+
+#: admin/admin-notice.php:59
+msgid "Maybe Later"
+msgstr "Måske senere"
+
+#: admin/admin-notice.php:55
+msgid "Install the Skyline WP homepage"
+msgstr "Installer Skyline WP forsiden"
+
+#: admin/admin-notice.php:50
+msgid "Would you like to install the pre-designed Skyline WP homepage?"
+msgstr "Vil du gerne installere den færdigdesignede Skyline WP forside?"
+
+#: template-parts/main/404.php:24
+msgid "Go to Homepage!"
+msgstr "Gå til forside!"
+
+#: template-parts/main/404.php:15
+msgid "Sorry, page not found!"
+msgstr "Beklager, siden blev ikke fundet!"
+
+#: template-parts/main/404.php:9
+msgid "404"
+msgstr "404"
+
+#: template-parts/main/archive_item_template.php:54
+msgid "comment(s)"
+msgstr "kommentar(er)"
+
+#: template-parts/main/archive_item_template.php:38
+#: template-parts/main/archive_item_template.php:46
+msgid "/"
+msgstr "/"
+
+#: template-parts/main/archive_item_template.php:71
+#: template-parts/main/search_item_template.php:49
+msgid "read more"
+msgstr "læs mere"
+
+#: template-parts/main/search_item_template.php:29
+msgid "on"
+msgstr "on"
+
+#: template-parts/main/search_item_template.php:20
+msgid "by"
+msgstr "af"
+
+#: template-parts/main/post.php:23
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} Svar"
+
+#: template-parts/main/post.php:22
+msgid "One response"
+msgstr "Et svar"
+
+#: template-parts/main/post.php:21
+msgid "No responses yet"
+msgstr "Endnu ingen svar"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:11
+msgid "Previous"
+msgstr "Forrige"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:28
+msgid "Next post"
+msgstr "Næste indlæg"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:27
+msgid "Previous post:"
+msgstr "Forrige indlæg:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:11
+msgid "Next post:"
+msgstr "Næste indlæg:"
+
+#: template-parts/layout-wrapper-content/navigation-container-1.php:10
+msgid "Previous post"
+msgstr "Forrige indlæg"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:37
+#: template-parts/layout-wrapper-content/navigation-container-3.php:11
+#: template-parts/layout-wrapper-content/navigation-container-3.php:37
+msgid "Back"
+msgstr "Tilbage"
+
+#: template-parts/layout-wrapper-content/navigation-container-2.php:10
+#: template-parts/layout-wrapper-content/navigation-container-2.php:36
+#: template-parts/layout-wrapper-content/navigation-container-3.php:10
+#: template-parts/layout-wrapper-content/navigation-container-3.php:36
+msgid "Next"
+msgstr "Næste"
+
+#: template-parts/layout-wrapper-content/tags-container-1.php:9
+msgid "Tags:"
+msgstr "Tags:"
+
+#: template-parts/layout-wrapper-content/categories-container-1.php:9
+#: template-parts/layout-wrapper-content/categories-container-2.php:9
+#: template-parts/layout-wrapper-content/categories-container-3.php:9
+msgid "Categories:"
+msgstr "Kategorier:"
+
+#. Author URI of the theme
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+msgid "Extend Themes"
+msgstr "Extend Themes"
