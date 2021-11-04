@@ -1,14 +1,11 @@
 <?php get_header(); ?>
 <?php colibriwp_theme()->get( 'single' )->render(); ?>
 
-
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
-			<h1 id="overskrift"> Retter</h1>
 <section id="ret-oversigt"></section>
 </main><!-- #main -->
 
-<article>
+<article id="artikel_kurser">
+
 		<img class="pic" src="" alt="">
 	<div>
 <h2></h2>
